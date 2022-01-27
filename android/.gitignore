@@ -1,0 +1,21 @@
+# Trash
+.DS_Store
+Thumbs.db
+
+# Xcode
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# IntelliJ
+.idea
+*.iml
+
+# Vscode
+.vscode
